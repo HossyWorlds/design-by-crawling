@@ -1,4 +1,4 @@
-# dcrawl
+# design-by-crawling
 
 🚀 **The simplest way to convert websites into React components with Tailwind CSS**
 
